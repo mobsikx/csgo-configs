@@ -1,1 +1,1 @@
- -high -nojoy -novid -threads 4 -tickrate 128 +cl_forcepreload 1 +mat_queue_mode 2
+ -high -nojoy -novid -threads 4 -tickrate 128 +cl_forcepreload 1 +mat_queue_mode 2 +exec tweak.cfg
