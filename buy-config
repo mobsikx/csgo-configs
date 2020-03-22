@@ -1,3 +1,8 @@
+//
+// Created for panda83
+// using the utility https://csgobuynds.com/buy-binds-generator.html#!/skg
+//
+
 // General - money ok
 // T - 4400, CT - 5000
 bind "f1" "buy ak47; buy m4a1; buy vesthelm; buy incgrenade; buy molotov; buy smokegrenade;"
